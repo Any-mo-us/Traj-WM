@@ -1,4 +1,4 @@
-# Traj-WM: A Trajectory-Centric World Model for Surgical Trajectory Forecasting
+# Traj-WM
 
 Accurate forecasting of **surgical instrument trajectories** is critical for real-time intra-operative guidance and proactive hazard mitigation. However, directly applying generic video world models to surgery is challenging: endoscopic scenes are visually complex, while feasible instrument motion follows strict procedural and physical constraints—making unconstrained future synthesis unreliable for trajectory prediction.
 
