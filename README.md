@@ -50,10 +50,7 @@ Improves over the official baseline (**0.299**).
 
 ---
 
-## 🧪 Generation / Data Augmentation Quality (LPIPS ↓)
+### 🧪 Generation / Data Augmentation Quality (LPIPS ↓)
 Lower LPIPS indicates better perceptual similarity. Traj-WM achieves the best LPIPS among comparable methods.
 
-<p align="center">
-  <img src="asset/LPIPS_table.png" width="420">
-</p>
 
