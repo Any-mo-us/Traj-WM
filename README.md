@@ -42,7 +42,7 @@ Traj-WM’s learned representation adapts to multiple surgical perception tasks,
 ### Instrument Segmentation
 - **Dice:** **0.861**
 - **IoU:** **0.840**  
-Despite using a simplified architecture (**single decoder**), Traj-WM outperforms **UnetBinary** (IoU **68.89%**, Dice **81.58%**).
+Despite using a simplified architecture (**single decoder**), Traj-WM outperforms **UnetBinary** (IoU **0.689%**, Dice **0.816**).
 
 ### Surgical Triplet Recognition
 - **mAP_macro:** **0.365**  
