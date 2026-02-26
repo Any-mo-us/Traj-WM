@@ -57,10 +57,3 @@ Lower LPIPS indicates better perceptual similarity. Traj-WM achieves the best LP
   <img src="asset/LPIPS_table.png" width="420">
 </p>
 
----
-
-## 📌 Citation
-Coming soon.
-
-## 📄 License
-Coming soon.
